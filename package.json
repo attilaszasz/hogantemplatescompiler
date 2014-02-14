@@ -5,7 +5,7 @@
   "main": "lib/hogantemplatescompiler.js",
   "bin": {
     "hogantemplatescompiler": "lib/hogantemplatescompiler.js"
-  }
+  },
   "dependencies": {
     "hogan.js": "~2.0.0",
     "cheerio": "~0.13.1",
