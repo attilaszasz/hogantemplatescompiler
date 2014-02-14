@@ -1,0 +1,32 @@
+{
+  "name": "hogantemplatescompiler",
+  "version": "1.0.0",
+  "description": "A batch compiler for hogan/mustache templates.",
+  "main": "lib/hogantemplatescompiler.js",
+  "dependencies": {
+    "hogan.js": "~2.0.0",
+    "cheerio": "~0.13.1",
+    "optimist": "~0.6.1",
+    "readdirp": "~0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attilaszasz/hogantemplatescompiler.git"
+  },
+  "keywords": [
+    "hogan",
+    "mustache",
+    "compiler",
+    "precompiler"
+  ],
+  "author": "Attila Szász",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/attilaszasz/hogantemplatescompiler/issues"
+  },
+  "homepage": "https://github.com/attilaszasz/hogantemplatescompiler"
+}
