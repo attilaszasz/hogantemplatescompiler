@@ -1,6 +1,6 @@
 {
   "name": "hogantemplatescompiler",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A batch compiler for hogan/mustache templates.",
   "main": "lib/hogantemplatescompiler.js",
   "bin": {
